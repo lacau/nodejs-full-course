@@ -1,0 +1,1 @@
+console.log('Printing text on example 1!')
